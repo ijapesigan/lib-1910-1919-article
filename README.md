@@ -1,7 +1,7 @@
 lib-1910-1919-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-15
+2024-05-16
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-1910-1919-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Wright-1918" class="csl-entry">
 
