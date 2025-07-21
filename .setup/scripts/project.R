@@ -17,6 +17,8 @@
 
 project <- "lib-1910-1919-article"
 
+rproject_ver <- NULL
+
 pkg_cran <- c(
   "RefManageR",
   "DT"
